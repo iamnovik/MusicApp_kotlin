@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobProj</string>
+    <string name="title_activity_albums">Albums</string>
+    <string name="title_activity_album_profile">AlbumProfileActivity</string>
+    <string name="title_activity_favourites">activity_favourites</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

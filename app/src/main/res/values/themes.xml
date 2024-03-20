@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.MobProj" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Установите цвет статусного бара -->
+        <item name="android:fontFamily">@font/intro</item>
+    </style>
+
+</resources>
